@@ -12,7 +12,7 @@ h1 {
     color: rgb(0, 0, 0);
     background-color: #fa8072;
 }
-
+/* Subsection of a method*/
 #subsection {
     color: blue;
     font-weight: bold;
@@ -29,7 +29,7 @@ h1 {
 #num-4  {
     background-color: rgb(68, 225, 36);
 }
-
+/* BGS */
 .cm  {
     color: white;
     background-color: black;
