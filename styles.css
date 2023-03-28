@@ -30,3 +30,19 @@ h1 {
     background-color: rgb(68, 225, 36);
 }
 
+#cm  {
+    color: white;
+    background-color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    
+}
+#ncm  {
+    color: black;
+    background-color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+
+.buttons {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
